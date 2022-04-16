@@ -53,7 +53,7 @@ I'm a Front-end Developer ☕ | Web Developer (Angular & React) | I like the pla
   
 ### 🤝🏻 &nbsp;Connect with Me
 
-  <a href="https://www.linkedin.com/in/arthurhorman/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;&nbsp; <a href="https://www.instagram.com/arthurhorman/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> &nbsp;&nbsp;</a>   
+  <a href="https://www.linkedin.com/in/arthur-horman-925b1a108/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;&nbsp; <a href="https://www.instagram.com/arthurhorman/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> &nbsp;&nbsp;</a>   
    
 <div align="center">
   
