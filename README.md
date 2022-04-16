@@ -24,6 +24,7 @@ I'm a Front-end Developer ☕ | Web Developer (React & Next.js) | I like the pla
 ![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Angular](https://img.shields.io/badge/-Ionic-05122A?style=flat&logo=ionic)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Ionic](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
