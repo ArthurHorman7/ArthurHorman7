@@ -42,7 +42,7 @@ I'm a Front-end Developer ☕ | Web Developer (React & Next.js) | I like the pla
 
 <div>
   <a href="https://github.com/ArthurHorman7">
-  <img height="160em"  align="left" src="https://github-readme-stats.vercel.app/api?username=arthurhorman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em"  align="left" src="https://github-readme-stats.vercel.app/api?username=ArthurHorman7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurHorman7&&layout=compact&hide=shell&theme=dracula"/>
 </div>
   
