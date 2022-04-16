@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I'm a Front-end Developer ☕ | Web Developer (React & Next.js) | I like the player  🎮
+I'm a Front-end Developer ☕ | Web Developer (Angular & React) | I like the player  🎮
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
